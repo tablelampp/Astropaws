@@ -1,4 +1,4 @@
-![# Astropaws](AstroPaws.png)
+![# Astropaws](src\model\assets\readmeImages\AstroPaws.png)
 
 
 ## Description
@@ -14,6 +14,14 @@
 - JavaFX (included in JDK)
 - JUnit 5.9.2 (for running tests, automatically fetched by Maven)
 - No additional third-party libraries required
+
+## Running from IDE (Easiest Method)
+1. Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, VS Code)
+2. Set up the project configuration to use Java 17+
+3. Run the `GUI` class located at `src/model/gui/GUI.java` as the main class
+```
+java -cp src model.gui.GUI
+```
 
 ## Building from Source
 
@@ -31,7 +39,6 @@ mvn -version
 1. Clone or download the repository:
 ```
 git clone <repository-url>
-cd group75
 ```
 2. Build the project using Maven:
 ```
@@ -52,10 +59,20 @@ cd target
 java -jar virtualpet-1.0-SNAPSHOT.jar
 ```
 
-### Running from IDE
-1. Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, VS Code)
-2. Set up the project configuration to use Java 17+
-3. Run the `GUI` class located at `src/model/gui/GUI.java` as the main class
+## Game Screenshots
+
+### Main Menu
+![# MainMenu](src\model\assets\readmeImages\mainMenu.png)
+
+### Choose Pet
+![# ChooesPet](src\model\assets\readmeImages\choosePet.png)
+
+### Pet Hub
+![# PetHub](src\model\assets\readmeImages\petHub.png)
+
+### Pet Sleeping
+![# PetHub](src\model\assets\readmeImages\petSleep.png)
+
 
 ## User Guide
 
@@ -131,6 +148,7 @@ The project includes JUnit 5 tests for backend functionality. Run the tests with
 ```
 mvn test
 ```
+
 
 ### Project Structure
 `src/model`: Contains the core game logic
