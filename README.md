@@ -1,4 +1,4 @@
-![# Astropaws](src\model\assets\readmeImages\AstroPaws.png)
+![# Astropaws](src/model/assets/readmeImages/AstroPaws.png)
 
 
 ## Description
@@ -62,16 +62,16 @@ java -jar virtualpet-1.0-SNAPSHOT.jar
 ## Game Screenshots
 
 ### Main Menu
-![# MainMenu](src\model\assets\readmeImages\mainMenu.png)
+![# MainMenu](src/model/assets/readmeImages/mainMenu.png)
 
 ### Choose Pet
-![# ChooesPet](src\model\assets\readmeImages\choosePet.png)
+![# ChooesPet](src/model/assets/readmeImages/choosePet.png)
 
 ### Pet Hub
-![# PetHub](src\model\assets\readmeImages\petHub.png)
+![# PetHub](src/model/assets/readmeImages/petHub.png)
 
 ### Pet Sleeping
-![# PetHub](src\model\assets\readmeImages\petSleep.png)
+![# PetHub](src/model/assets/readmeImages/petSleep.png)
 
 
 ## User Guide
