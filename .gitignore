@@ -1,0 +1,23 @@
+# Ignore the bin directory
+/bin/
+
+# Ignore all .class files
+*.class
+
+# Ignore all .save files
+*.save
+*parent_config.properties
+
+
+# Ignore all Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+
+# Ignore VS Code settings except useful ones
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
