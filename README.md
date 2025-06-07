@@ -73,6 +73,9 @@ java -jar virtualpet-1.0-SNAPSHOT.jar
 ### Pet Sleeping
 ![# PetHub](src/model/assets/readmeImages/petSleep.png)
 
+### Space Exploration
+![# SpaceExploration](src/model/assets/readmeImages/spaceExploration.png)
+
 
 ## User Guide
 
