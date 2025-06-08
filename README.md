@@ -95,7 +95,7 @@ When you start the game, you'll be presented with the main menu with the followi
 
 ### Basic Pet Care
 - **Feeding** (Shortcut = F): Use food items from your inventory to feed your pet
-- **Playing** (Shortcut = P): Play with your pet to increase hapiness (has a cooldown)
+- **Playing** (Shortcut = P): Play with your pet to increase happiness (has a cooldown)
 - **Sleeping** (Shortcut = S): Send your pet to bed when they're tired
 - **Gifting** (Shortcut = G): Use gifts to increase your pet's happiness
 - **Vet Visits** (Shortcut = V): Take your pet to the vet when they're sick (has a cooldown)
@@ -103,11 +103,11 @@ When you start the game, you'll be presented with the main menu with the followi
 
 ### Space Missions
 1. Build up your pet's space readiness through regular care. Your pet's space readiness level increases when all other stats are above 90%
-2. When space readiness has reached 100%, send your pet on a space mission.
+2. Once space readiness reaches 100%, send your pet on a space mission.
 3. Your pet's score increases by +1 every time they go on a space mission!
 
 ### Inventory
-Each pet has its own inventory of items. The player can collect randomly-dropped game items every 30 seconds. The items come in two types:
+Each pet has its own inventory of items. The player can collect randomly dropped game items every 30 seconds. The items come in two types:
 - **Food**: Food items can be fed to pets to increase their fullness stat
 - **Gift**: Gift items can be gifted to pets to increase their happiness stat
 The inventory can hold a maximum of 20 items.
@@ -123,9 +123,9 @@ Monitor these key stats (0-100 scale):
 ### Pet States
 Your pet can be in one of these states:
 - **NORMAL**: Everything is fine
-- **SLEEPING**: Pet is asleep and can't be interact with until fully rested
+- **SLEEPING**: Pet is asleep and can't be interacted with until fully rested
 - **HUNGRY**: Hunger level is at zero, health will decrease periodically
-- **ANGRY**: Happiness level is at zero, pet will only respond to play and gifts
+- **ANGRY**: Happiness level is at zero, the pet will only respond to play and gifts
 - **DEAD**: Health level reaches zero, pet cannot be recovered (except through parental controls)
 
 ## Parental Controls
@@ -155,7 +155,7 @@ mvn test
 
 ### Project Structure
 `src/model`: Contains the core game logic
-- `model/pet`: Pet classes and behaviors
+- `model/pet`: Pet classes and behaviours
 - `model/item`: Items like food and toys
 - `model/gui`: User interface components
 - `model/assets`: Game resources (images, sounds)
