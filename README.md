@@ -87,7 +87,7 @@ When you start the game, you'll be presented with the main menu with the followi
 - **Parental Controls**: Access parent settings
 - **Exit**: Close the application
 
-###Creating a New Pet
+### Creating a New Pet
 1. Select "New Game" from the main menu
 2. Choose one of the four pet types (Dog, Fish, Monkey, Mouse), each with different attributes
 3. Name your pet
