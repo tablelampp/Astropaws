@@ -3,7 +3,7 @@
 
 ## Description
 - AstroPaws is a Java-based virtual pet simulation game where players can care for and interact with their pets, while training them to go on space missions 🚀 
-- The game features four different types of pets (Dog, Fish, Monkey, and Mouse), each with unique characteristics and reactions to each player action.
+- The game features four different types of pets (Dog, Fish, Monkey, and Mouse; all animals that have been to space), each with unique characteristics and reactions to each player action.
 - Players must maintain their pet's health, happiness, hunger, and sleep levels in preperation to prepare them for exciting space mission! Pets increase their score by going on space missions. 
 - The game includes parental controls for time management and safety.
 
